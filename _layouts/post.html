@@ -24,7 +24,7 @@ layout: default
       <div class="post-meta">
         <div class="post-meta__left">
           <a href="{{site.baseurl}}/about/" class="post-author-image">
-            <img class="lazy" data-src="{{site.data.settings.author.author__avatar}}" alt="{{site.data.settings.author.author__name}}">
+            <img class="lazy" data-src="{{site.data.settings.author.author__avatar | relative_url}}" alt="{{site.data.settings.author.author__name}}">
           </a>
           <div class="post-meta__bottom">
             <a class="post-author-name" href="{{site.baseurl}}/about/">{{ site.data.settings.author.author__name }}</a>
@@ -37,7 +37,7 @@ layout: default
             <ul class="share__list list-reset">
               <li class="share__item">
                 <a class="share__link share__twitter"
-                  href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+                  href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&url={{ site.baseurl }}{{ page.url }}"
                   onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
                   title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
               </li>
