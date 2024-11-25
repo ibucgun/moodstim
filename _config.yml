@@ -21,7 +21,7 @@ paginate_path: "/blog/page/:num"
 collections:
   pages:
     output: true
-    permalink: moodstim/:name
+    permalink: /:name
   posts:
     output: true
     permalink: /blog/:slug
