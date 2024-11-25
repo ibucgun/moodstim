@@ -21,9 +21,9 @@ menu__settings:
     - title: 'Sayfalar'
       submenu:
       - title: 'İletişim' 
-        url: 'moodstim/contact/'
+        url: '/contact/'
       - title: 'Elements'
-        url: 'moodstim/elements/'
+        url: '/elements/'
         
 #-------------------------------
 # Author Settings
