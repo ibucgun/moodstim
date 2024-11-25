@@ -12,8 +12,8 @@
         <ul class="logos__list list-reset">
           {% for logo in site.data.settings.logo__items %}
           <li class="logos__item">
-            <a href="{{ logo.link }}" class="logos__link" rel="noopener">
-              <img src="{{ logo.image }}" alt="{{ logo.name }}" class="logos__image">
+            <a href="{{ logo.link | relative_url}}" class="logos__link" rel="noopener">
+              <img src="{{ logo.image | relative_url }}" alt="{{ logo.name }}" class="logos__image">
             </a>
           </li>
           {% endfor %}
