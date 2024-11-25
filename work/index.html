@@ -27,7 +27,7 @@ description: I shows only the best websites and portfolios built completely with
             {% if work.category %}
             <div class="work__category">{{ work.category }}</div>
             {% endif %}
-            <h3 class="work__title"><a href="{{ work.url }}">{{ work.title }}</a></h3>
+            <h3 class="work__title"><a href="{{ work.url | relative_url }}">{{ work.title }}</a></h3>
             {% if work.description %}
             <p class="work__description">{{ work.description }}</p>
             {% endif %}
