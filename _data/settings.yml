@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Akio
+title: Dr. İsmail BUÇGÜN
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Creative Portfolio Theme for Jekyll.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -10,18 +10,18 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Home'
+    - title: 'Anasayfa'
       url: '/'
-    - title: 'About'
+    - title: 'Hakkımda'
       url: '/about/'
-    - title: 'Work'
+    - title: 'Hizmetler'
       url: '/work/'
-    - title: 'Writing'
+    - title: 'Yazılar'
       url: '/blog/'
-    - title: 'Pages'
+    - title: 'Sayfalar'
       submenu:
       - url: '/contact/'
-        title: 'Contact'
+        title: 'İletişim'
       - url: '/elements/'
         title: 'Elements'
 
@@ -98,7 +98,7 @@ mailchimp:
 # Work Settings
 work:
   enable: true
-  work__title: Work
+  work__title: Hizmetler
   work__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
 
 
@@ -172,7 +172,7 @@ blog:
   enable: true
 
 blog__settings:
-  blog__title: Writing
+  blog__title: Yazılar
   blog__description:
 
 
