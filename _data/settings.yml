@@ -51,7 +51,7 @@ social:
 hero:
   enable: true
   hero__title: Merhaba, ben Dr. İsmail!
-  hero__description: <b>Adana'da kendi kliniğimde</b> psikiyatrist olarak hizmet veriyorum. Bipolar bozukluk ve depresyon gibi duygudurum bozuklukları ve TMS gibi beyin uyarım tedavileri ile ilgileniyor ve temel olarak bu alanda çalışıyorum. 
+  hero__description: <b>Adana'da kendi kliniğimde</b> psikiyatrist olarak hizmet veriyorum. <b>Bipolar bozukluk ve depresyon gibi duygudurum bozuklukları</b> ve <b>TMS gibi beyin uyarım tedavileri</b> ile ilgileniyor ve temel olarak bu alanda çalışıyorum. 
   hero__image: "/images/01-1.jpg"
 
 
