@@ -50,7 +50,7 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Merhaba, ben Dr. İsmail
+  hero__title: Merhaba, ben Dr. İsmail BUÇGÜN
   hero__description: Adana'da kendi kliniğimde psikiyatrist olarak hizmet veriyorum. 
   hero__image: "/images/01-1.jpg"
 
