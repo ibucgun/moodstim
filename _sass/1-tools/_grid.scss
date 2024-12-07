@@ -27,7 +27,7 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
   margin: 0 auto;
 
   @media only screen and (max-width: $wide) {
-    max-width: 840px;
+    max-width: 1000px;
     padding-left: $container-offset;
     padding-right: $container-offset;
   }
