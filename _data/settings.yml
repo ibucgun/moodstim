@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Uzm. Dr. İsmail BUÇGÜN
+title: MoodStim
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Creative Portfolio Theme for Jekyll.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -12,10 +12,10 @@ menu__settings:
   menu__items:
     - title: 'Anasayfa'
       url: '/'
-    - title: 'Hakkımda'
+    - title: 'Hakkımızda'
       url: '/about/'
     - title: 'Yazılar'
-      url: '/blog/'
+      url: '/yazilar/'
     - title: 'Klinik'
       submenu:
       - title: 'Hizmetler'
@@ -50,8 +50,8 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Merhaba, ben Dr. İsmail!
-  hero__description: Bipolar bozukluk ve depresyon gibi <b>duygudurum bozuklukları</b> ve <b>TMS gibi beyin uyarım tedavileri</b> ile ilgileniyor ve <b>Adana'da kendi kliniğimde</b> temel olarak bu alanlarda psikiyatrist olarak hizmet veriyorum. 
+  hero__title: Merhaba, MoodStim'e Hoşgeldiniz!
+  hero__description: Adana'da <b>duygudurum bozuklukları</b> ve <b>beyin uyarım tedavileri</b> alanları başta olmak üzere psikiyatri ve psikolojinin pek çok alanında <b>uzman ekibimizle</b> hizmet veriyoruz. 
   hero__image: "/images/01-1.jpg"
 
 

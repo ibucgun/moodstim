@@ -24,10 +24,10 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /yazilar/:slug
   works:
     output: true
-    permalink: /work/:slug
+    permalink: /hizmetler/:slug
 
 # Pages Path
 defaults:
