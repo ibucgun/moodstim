@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Hakkımızda
+title: Ekibimiz
 description: I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
-permalink: /hakkimizda/
+permalink: /ekip/
 image: '/images/01-2.jpg'
 image_caption: 'Photo by [Bruce Dixon](https://unsplash.com/photos/3M9WJQVHzog) on [Unsplash](https://unsplash.com/)'
 ---
