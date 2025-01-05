@@ -51,7 +51,7 @@ social:
 hero:
   enable: true
   hero__title: MoodStim'e Hoşgeldiniz!
-  hero__description: Adana'da <b>duygudurum bozuklukları</b> ve <b>beyin uyarım tedavileri</b> alanları başta olmak üzere psikiyatri ve psikolojinin pek çok alanında <b>uzman ekibimizle</b> hizmet veriyoruz. 
+  hero__description: Adana'da <b>duygudurum bozuklukları</b> ve <b>beyin uyarım tedavileri</b> başta olmak üzere psikiyatri ve psikolojinin pek çok alanında <b>uzman ekibimizle</b> hizmet veriyoruz. 
   hero__image: "/images/01-1.jpg"
 
 
