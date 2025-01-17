@@ -15,11 +15,11 @@ menu__settings:
     - title: 'Ekibimiz'
       url: '/ekip/'
     - title: 'Yazılar'
-      url: '/yazi/'
+      url: '/blog/'
     - title: 'Klinik'
       submenu:
       - title: 'Hizmetler'
-        url: '/hizmet/'
+        url: '/works/'
       - title: 'Randevu'
         url: '/randevu/'
       - title: 'İletişim' 
