@@ -19,7 +19,7 @@ menu__settings:
     - title: 'Klinik'
       submenu:
       - title: 'Hizmetler'
-        url: '/works/'
+        url: '/work/'
       - title: 'Randevu'
         url: '/randevu/'
       - title: 'İletişim' 
