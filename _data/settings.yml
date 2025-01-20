@@ -33,6 +33,9 @@ author:
   author__name: MoodStim
   author__bio: Adana'da duygudurum bozuklukları ve beyin uyarım tedavileri başta olmak üzere psikiyatri ve psikolojinin pek çok alanında modern, kanıta dayalı, güncel tedavi yaklaşımlarımızla hizmet veriyoruz.
   author__avatar: '/images/01.jpg'
+  author1__name: İsmail BUÇGÜN
+  author1__bio: Adana'da duygudurum bozuklukları ve beyin uyarım tedavileri başta olmak üzere psikiyatri ve psikolojinin pek çok alanında modern, kanıta dayalı, güncel tedavi yaklaşımlarımızla hizmet veriyoruz.
+  author1__avatar: '/images/01.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
