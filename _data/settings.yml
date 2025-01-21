@@ -14,7 +14,7 @@ menu__settings:
       url: '/'
     - title: 'Ekibimiz'
       url: '/ekip/'
-    - title: 'Yazılar'
+    - title: 'Blog'
       url: '/blog/'
     - title: 'Klinik'
       submenu:
