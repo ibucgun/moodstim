@@ -61,7 +61,7 @@ hero:
 #-------------------------------
 # Logos Settings
 logos:
-  enable: true
+  enable: false
   logos__title: I’ve worked with some great сompanies
 
 logo__items:
