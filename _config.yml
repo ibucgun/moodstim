@@ -47,9 +47,9 @@ defaults:
       layout: "post"
   - scope:
       path: ""
-      type: "hizmetler"
+      type: "works"
     values:
-      layout: "hizmet"
+      layout: "work"
 
 sass:
   sass_dir: _sass
