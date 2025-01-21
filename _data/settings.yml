@@ -103,7 +103,7 @@ mailchimp:
 work:
   enable: true
   work__title: Hizmetler
-  work__description: Bilimsel kanıta dayalı, modern ve güncel tanı ve tedavi yöntemlerini takip ediyor ve kullanıyoruz.
+  work__description: Bilimsel kanıta dayalı, modern ve güncel tanı ve tedavi yöntemlerini kullanıyoruz.
 
 
 #-------------------------------
