@@ -1,9 +1,9 @@
 ---
-title: Mental health
+title: Psikiyatrik Değerlendirme
 description: An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books.
-category: Print Design
-date: 2022-01-05 08:01:35 +0300
-role: Graphic Designer
+category: Tanısal Değerlendirme
+date: 2025-01-21 08:00:00 +0300
+role: Uzm. Dr. İsmail BUÇGÜN
 image: '/images/work-6.jpg'
 image_caption: 'Photo by [Freepik](https://www.freepik.com/)'
 ---
