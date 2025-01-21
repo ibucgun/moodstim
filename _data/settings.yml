@@ -176,8 +176,8 @@ blog:
   enable: true
 
 blog__settings:
-  blog__title: Yazılar
-  blog__description:
+  blog__title: Blog
+  blog__description: Deneme açıklaması
 
 
 #-------------------------------
