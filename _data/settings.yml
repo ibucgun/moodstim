@@ -109,7 +109,7 @@ work:
 #-------------------------------
 # Testimonials Section
 testimonials:
-  enable: true
+  enable: false
 
 testimonial__title: Clients
 testimonial__description:
