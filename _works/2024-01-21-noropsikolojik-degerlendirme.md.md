@@ -1,7 +1,7 @@
 ---
 title: Nöropsikolojik Değerlendirme
 description: An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books.
-category: Tanısal Değerlendirme
+category: Tanıya/Takibe Yardımcı Değerlendirme
 date: 2025-01-21 08:00:00 +0300
 role: Klinik Nöropsikolog Gülden ÖZCAN
 image: '/images/work-5.jpg'
