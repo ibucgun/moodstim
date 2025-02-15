@@ -105,6 +105,13 @@ work:
   work__title: Hizmetler
   work__description: Kliniğimizde bilimsel kanıta dayalı, modern ve güncel tanı ve tedavi yaklaşımlarını kullanıyoruz.
 
+#-------------------------------
+# Ekip Settings
+ekip:
+  enable: true
+  ekip__title: Ekibimiz
+  ekip__description: Kliniğimizde bilimsel kanıta dayalı, modern ve güncel tanı ve tedavi yaklaşımlarını kullanıyoruz.
+
 
 #-------------------------------
 # Testimonials Section
