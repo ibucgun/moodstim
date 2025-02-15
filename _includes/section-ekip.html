@@ -10,7 +10,7 @@
           {% if site.data.settings.ekip.ekip__description %}
           <p class="section__description">{{ site.data.settings.ekip.ekip__description }}</p>
           {% endif %}
-          <a href="{{ '/hizmet' | relative_url }}" class="section__link">Tüm Ekibi İncele<i class="ion ion-md-arrow-forward"></i></a>
+          <a href="{{ '/ekip' | relative_url }}" class="section__link">Tüm Ekibi İncele<i class="ion ion-md-arrow-forward"></i></a>
         </div>
       </div>
 
@@ -20,16 +20,16 @@
           {% for ekip in sorted limit:4 %}
           <article class="work col col-6 col-d-12">
             <div class="work__content">
-              <a href="{{ work.url | relative_url}}" class="work__image">
-                <img class="lazy" data-src="{{ work.image | relative_url}}" alt="{{ work.title }}">
+              <a href="{{ ekip.url | relative_url}}" class="work__image">
+                <img class="lazy" data-src="{{ ekip.image | relative_url}}" alt="{{ ekip.title }}">
               </a>
               <div class="work__info">
-                {% if work.category %}
-                <div class="work__category">{{ work.category }}</div>
+                {% if ekip.category %}
+                <div class="work__category">{{ ekip.category }}</div>
                 {% endif %}
-                <h3 class="work__title"><a href="{{ work.url | relative_url}}">{{ work.title }}</a></h3>
-                {% if work.description %}
-                <p class="work__description">{{ work.description }}</p>
+                <h3 class="work__title"><a href="{{ ekip.url | relative_url}}">{{ ekip.title }}</a></h3>
+                {% if ekip.description %}
+                <p class="work__description">{{ ekip.description }}</p>
                 {% endif %}
               </div>
             </div>
