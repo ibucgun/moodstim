@@ -56,7 +56,7 @@ social:
 hero:
   enable: true
   hero__title: MoodStim'e Hoşgeldiniz!
-  hero__description: Adana'daki kliniğimizde <b>depresyon ve bipolar bozukluk gibi duygudurum bozuklukları</b> ve <b>beyin uyarım tedavileri</b> başta olmak üzere psikiyatri ve psikolojinin pek çok alanında <b>uzman ekibimizle, kanıta dayalı ve modern tanı ve tedavi yöntemleri ile</b> hizmet veriyoruz. 
+  hero__description: Adana'daki kliniğimizde <b>depresyon ve bipolar bozukluk gibi duygudurum bozuklukları</b> ve <b>beyin uyarım tedavileri</b> başta olmak üzere psikiyatri ve psikolojinin pek çok alanında <b>uzman ekibimizle, bilimsel kanıta dayalı ve modern tanı ve tedavi yöntemleri ile</b> hizmet veriyoruz. 
   hero__image: "/images/01-1.jpg"
 
 
@@ -112,7 +112,7 @@ work:
 ekip:
   enable: true
   ekip__title: Ekibimiz
-  ekip__description: Kliniğimizde bilimsel kanıta dayalı, modern ve güncel tanı ve tedavi yaklaşımlarını kullanıyoruz.
+  ekip__description: Erişkin psikiyatristi, klinik psikolog ve klinik nöropsikologtan oluşan alanında uzman ekibimizle hizmet veriyoruz.
 
 
 #-------------------------------
