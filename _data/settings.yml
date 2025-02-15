@@ -12,10 +12,10 @@ menu__settings:
   menu__items:
     - title: 'Anasayfa'
       url: '/'
-    - title: 'Hizmetler'
-      url: '/hizmet/'
     - title: 'Ekibimiz'
       url: '/ekip/'
+    - title: 'Hizmetler'
+      url: '/hizmet/'
     - title: 'Klinik'
       submenu:
       - title: 'Blog'
