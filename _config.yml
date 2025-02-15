@@ -28,6 +28,9 @@ collections:
   works:
     output: true
     permalink: /hizmet/:slug
+  ekip:
+    output: true
+    permalink: /ekip/:slug
 
 # Pages Path
 defaults:
@@ -50,6 +53,11 @@ defaults:
       type: "works"
     values:
       layout: "work"
+  - scope:
+      path: ""
+      type: "ekip"
+    values:
+      layout: "ekip"
 
 sass:
   sass_dir: _sass
