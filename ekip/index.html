@@ -1,35 +1,35 @@
 ---
 layout: default
-title: Hizmetler
+title: Ekibimiz
 description: Adana'daki kliniğimizde depresyon ve bipolar bozukluk gibi duygudurum bozuklukları ile beyin uyarım tedavileri başta olmak üzere, psikiyatri ve psikolojinin pek çok alanında güncel, kanıta dayalı yaklaşımları kullanarak hizmet sunuyoruz. Burada MoodStim ekibi olarak sunduğumuz temel hizmetleri ve sunduğumuz hizmetlerin ayrıntılarını bulabilirsiniz.
 ---
 
 <div class="container">
   <div class="page-section-head">
-    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.work.work__title }}{% endif %}</h1>
+    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.ekip.ekip__title }}{% endif %}</h1>
     {% if page.description %}
       <p class="page-description">{{ page.description }}</p>
-    {% else site.data.settings.work.work__description %}
-      <p class="page-description">{{ site.data.settings.work.work__description }}</p>
+    {% else site.data.settings.ekip.ekip__description %}
+      <p class="page-description">{{ site.data.settings.ekip.ekip__description }}</p>
     {% endif %}
   </div>
 </div>
 
 <div class="work-page container animate">
   <div class="row">
-    {% for work in site.works reversed %}
+    {% for ekip in site.ekip reversed %}
       <article class="work col col-4 col-d-6 col-t-12">
         <div class="work__content">
-          <a href="{{ work.url | relative_url }}" class="work__image">
-            <img class="lazy" data-src="{{ work.image | relative_url }}" alt="{{ work.title }}">
+          <a href="{{ ekip.url | relative_url }}" class="work__image">
+            <img class="lazy" data-src="{{ ekip.image | relative_url }}" alt="{{ ekip.title }}">
           </a>
           <div class="work__info">
-            {% if work.category %}
-            <div class="work__category">{{ work.category }}</div>
+            {% if ekip.category %}
+            <div class="work__category">{{ ekip.category }}</div>
             {% endif %}
-            <h3 class="work__title"><a href="{{ work.url | relative_url }}">{{ work.title }}</a></h3>
-            {% if work.description %}
-            <p class="work__description">{{ work.description }}</p>
+            <h3 class="work__title"><a href="{{ ekip.url | relative_url }}">{{ ekip.title }}</a></h3>
+            {% if ekip.description %}
+            <p class="work__description">{{ ekip.description }}</p>
             {% endif %}
           </div>
         </div>
