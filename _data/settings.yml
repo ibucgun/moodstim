@@ -33,11 +33,8 @@ menu__settings:
 # Author Settings
 author:
   author__name: MoodStim
-  author__bio: Adana'daki kliniğimizde duygudurum bozuklukları ve beyin uyarım tedavileri başta olmak üzere psikiyatri ve psikolojinin pek çok alanında modern, kanıta dayalı, güncel tedavi yaklaşımlarımızla hizmet veriyoruz.
+  author__bio: Adana'daki kliniğimizde duygudurum bozuklukları ve beyin uyarım tedavileri başta olmak üzere psikiyatri ve psikolojinin pek çok alanında modern, kanıta dayalı, güncel tedavi yaklaşımlarıyla hizmet veriyoruz.
   author__avatar: '/images/01.jpg'
-  author1__name: İsmail BUÇGÜN
-  author1__bio: İsmail Adana'da duygudurum bozuklukları ve beyin uyarım tedavileri başta olmak üzere psikiyatri ve psikolojinin pek çok alanında modern, kanıta dayalı, güncel tedavi yaklaşımlarımızla hizmet veriyoruz.
-  author1__avatar: '/images/01.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -56,7 +53,7 @@ social:
 hero:
   enable: true
   hero__title: MoodStim'e Hoşgeldiniz!
-  hero__description: Adana'daki kliniğimizde <b>depresyon ve bipolar bozukluk gibi duygudurum bozuklukları</b> ve <b>beyin uyarım tedavileri</b> başta olmak üzere psikiyatri ve psikolojinin pek çok alanında <b>uzman ekibimizle, bilimsel kanıta dayalı ve modern tanı ve tedavi yöntemleri ile</b> hizmet veriyoruz. 
+  hero__description: Adana'daki kliniğimizde <b>depresyon ve bipolar bozukluk gibi duygudurum bozuklukları</b> ve <b>beyin uyarım tedavileri</b> başta olmak üzere psikiyatri ve psikolojinin pek çok alanında <b>uzman ekibimizle, bilimsel kanıta dayalı, modern tanı ve tedavi yöntemleri ile</b> hizmet veriyoruz. 
   hero__image: "/images/01-1.jpg"
 
 
