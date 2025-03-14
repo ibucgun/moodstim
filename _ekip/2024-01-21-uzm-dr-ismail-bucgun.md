@@ -1,7 +1,7 @@
 ---
 title: Uzm. Dr. İsmail BUÇGÜN
 description: An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books.
-category: Beyin Uyarım Tedavisi
+category: Psikiyatri Uzmanı
 date: 2025-01-21 08:00:00 +0300
 role: Uzm. Dr. İsmail BUÇGÜN
 image: '/images/work-4.jpg'
