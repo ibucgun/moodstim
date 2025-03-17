@@ -1,5 +1,5 @@
 ---
-title: Uzm.Psk. Aleyna SULTANOĞLU
+title: Uzm. Psk. Aleyna SULTANOĞLU
 description: An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books.
 category: Klinik Psikolog
 date: 2025-01-21 08:00:00 +0300
