@@ -109,7 +109,7 @@ work:
 ekip:
   enable: true
   ekip__title: Ekibimiz
-  ekip__description: Erişkin psikiyatristi, klinik psikolog ve klinik nöropsikologtan oluşan alanında uzman ekibimizle hizmet veriyoruz.
+  ekip__description: Erişkin psikiyatristi ve klinik psikologtan oluşan alanında uzman ekibimizle hizmet veriyoruz.
 
 
 #-------------------------------
