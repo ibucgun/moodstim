@@ -12,8 +12,8 @@ Hardcover books have a stiff binding. Paperback books have cheaper, flexible cov
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/work-1-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/work-1-3.jpg" loading="lazy" alt="Project">
+    <img src="www.ismailbucgun.com/moodstim/images/work-1-2.jpg" loading="lazy" alt="Project">
+    <img src="www.ismailbucgun.com/moodstim/images/work-1-3.jpg" loading="lazy" alt="Project">
   </div>
   <em>Photo by <a href="https://www.freepik.com/" target="_blank">Freepik</a></em>
 </div>
