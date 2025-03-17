@@ -12,7 +12,7 @@ Kliniğimizde <b>18 yaş altı hasta kabul edilmemekte yalnızca yetişkinlere h
 Psikiyatrik muayene için <b>ilk kez gelecek olan hastalar için yalnızca yüz yüze</b> randevu oluşturulmaktadır. İlk değerlendirme görüşmesi sonrasında takipte gerekirse, hastanın durumu ve tanısı uygunsa online görüşme ile takip ve tedavi sürdürülebilir.
 
 ## Online Görüşme
-Takipte tanısı ve durumu online takip için uygun olan, şehir dışından gelen ya da şehir dışına çıkan hastalarda görüşmeler online sürdürülebilir. Online görüşmeler belirli konularda özen gösterildiğinde sorunsuz bir şekilde yüzyüze görüşmeler gibi ilerlemekte, etki açısından bir fark bulunmamaktadır. Görüşme kalitesini arttırmak için bazı önerileri aşağıda bulabilirsiniz.
+Takipte <b>tanısı ve durumu online takip için uygun olan</b>, şehir dışından gelen ya da şehir dışına çıkan hastalarda görüşmeler online sürdürülebilir. Online görüşmeler belirli konularda özen gösterildiğinde sorunsuz bir şekilde yüzyüze görüşmeler gibi ilerlemekte, etki açısından bir fark bulunmamaktadır. Görüşme kalitesini arttırmak için bazı önerileri aşağıda bulabilirsiniz.
 
 1. Lütfen yüzyüze görüşmeye gelir gibi görüşme vaktinde hazır bulunun.
 2. Görüşme yapılacak odanın mahremiyetinin sağlayarak konuşmaların bulunduğunuz yerdeki başka kişilerce duyulmasının engellenmesini sağlayın, mümkünse odada yalnız olun.
