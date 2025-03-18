@@ -12,9 +12,11 @@ Kliniğimizde online randevu sistemi kullanılmamaktadır.</b> Yalnızca telefon
 ### 2. Hangi yaş grubuna hizmet veriyorsunuz?
 Kliniğimizde 18 yaş altı hasta kabul edilmemekte yalnızca yetişkinlere hizmet verilmektedir. 
 
-Psikiyatrik muayene için <b>ilk kez gelecek olan hastalar için yalnızca yüz yüze</b> randevu oluşturulmaktadır. İlk değerlendirme görüşmesi sonrasında takipte gerekirse, hastanın durumu ve tanısı uygunsa online görüşme ile takip ve tedavi sürdürülebilir.
+### 3. Online muayene imkanı var mı?
+Psikiyatrik muayene için <b>ilk kez gelecek olan hastalar için yalnızca yüz yüze</b> randevu oluşturulmaktadır. İlk değerlendirme görüşmesi sonrasında takipte gerekirse ve hastanın durumu ile tanısı uygunsa online görüşme ile takip ve tedavi sürdürülebilir.
+Klinik psikolog görüşmesi için online görüşme randevusu oluşturulabilir.
 
-## Online Görüşme
+# Online Görüşme
 Takipte <b>tanısı ve durumu online takip için uygun olan</b>, şehir dışından gelen ya da şehir dışına çıkan hastalarda görüşmeler online sürdürülebilir. Online görüşmeler belirli konularda özen gösterildiğinde sorunsuz bir şekilde yüzyüze görüşmeler gibi ilerlemekte, etki açısından bir fark bulunmamaktadır. Görüşme kalitesini arttırmak için bazı önerileri aşağıda bulabilirsiniz.
 
 1. Lütfen yüzyüze görüşmeye gelir gibi görüşme vaktinde hazır bulunun.
