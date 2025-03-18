@@ -16,18 +16,16 @@ menu__settings:
       url: '/ekip/'
     - title: 'Hizmetler'
       url: '/hizmet/'
+    - title: 'Blog'
+      url: '/blog/'
     - title: 'Klinik'
       submenu:
-      - title: 'Blog'
-        url: '/blog/'
       - title: 'Sıkça Sorulanlar'
         url: '/sss/'
       - title: 'Randevu'
         url: '/randevu/'
       - title: 'İletişim' 
         url: '/iletisim/'
-      - title: 'Elements'
-        url: '/elements/'
         
 #-------------------------------
 # Author Settings
