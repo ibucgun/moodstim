@@ -6,10 +6,11 @@ permalink: /sss/
 ---
 ## Randevu Hakkında Sıkça Sorulanlar
 
-### 1. Nasıl Randevu Alabilirim?
-Mevcut hasta yoğunluğu ve yakın takip/sık görüşme gerekebilen hasta sayımızın çokluğu nedeniyle <b>kliniğimizde online randevu sistemi kullanılmamaktadır.</b> Yalnızca telefonla arayarak ya da Whatsapp mesajı göndererek bilgi ve randevu alabilirsiniz.
+### 1. Nasıl randevu alabilirim?
+Kliniğimizde online randevu sistemi kullanılmamaktadır.</b> Yalnızca telefonla arayarak ya da Whatsapp mesajı göndererek bilgi ve randevu alabilirsiniz.
 
-Kliniğimizde <b>18 yaş altı hasta kabul edilmemekte yalnızca yetişkinlere hizmet verilmektedir.</b>  
+### 2. Hangi yaş grubuna hizmet veriyorsunuz?
+Kliniğimizde 18 yaş altı hasta kabul edilmemekte yalnızca yetişkinlere hizmet verilmektedir. 
 
 Psikiyatrik muayene için <b>ilk kez gelecek olan hastalar için yalnızca yüz yüze</b> randevu oluşturulmaktadır. İlk değerlendirme görüşmesi sonrasında takipte gerekirse, hastanın durumu ve tanısı uygunsa online görüşme ile takip ve tedavi sürdürülebilir.
 
