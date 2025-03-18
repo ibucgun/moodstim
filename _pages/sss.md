@@ -4,16 +4,16 @@ title: Sıkça Sorulan Sorular
 description: Kliniğimize başvuru, tedavi ve takip süreçleri ile ilgili sıkça sorulan soruların yanıtlarına buradan ulaşabilirsiniz.
 permalink: /sss/
 ---
-# Randevu Hakkında Sıkça Sorulanlar
+## Randevu Hakkında Sıkça Sorulanlar
 
-## 1. Nasıl Randevu Alabilirim?
+### 1. Nasıl Randevu Alabilirim?
 Mevcut hasta yoğunluğu ve yakın takip/sık görüşme gerekebilen hasta sayımızın çokluğu nedeniyle <b>kliniğimizde online randevu sistemi kullanılmamaktadır.</b> Yalnızca telefonla arayarak ya da Whatsapp mesajı göndererek bilgi ve randevu alabilirsiniz.
 
 Kliniğimizde <b>18 yaş altı hasta kabul edilmemekte yalnızca yetişkinlere hizmet verilmektedir.</b>  
 
 Psikiyatrik muayene için <b>ilk kez gelecek olan hastalar için yalnızca yüz yüze</b> randevu oluşturulmaktadır. İlk değerlendirme görüşmesi sonrasında takipte gerekirse, hastanın durumu ve tanısı uygunsa online görüşme ile takip ve tedavi sürdürülebilir.
 
-# Online Görüşme
+## Online Görüşme
 Takipte <b>tanısı ve durumu online takip için uygun olan</b>, şehir dışından gelen ya da şehir dışına çıkan hastalarda görüşmeler online sürdürülebilir. Online görüşmeler belirli konularda özen gösterildiğinde sorunsuz bir şekilde yüzyüze görüşmeler gibi ilerlemekte, etki açısından bir fark bulunmamaktadır. Görüşme kalitesini arttırmak için bazı önerileri aşağıda bulabilirsiniz.
 
 1. Lütfen yüzyüze görüşmeye gelir gibi görüşme vaktinde hazır bulunun.
