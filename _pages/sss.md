@@ -14,7 +14,18 @@ Kliniğimizde 18 yaş altı hasta kabul edilmemekte yalnızca yetişkinlere hizm
 
 ### 3. Online muayene imkanı var mı?
 Psikiyatrik muayene için <b>ilk kez gelecek olan hastalar için yalnızca yüz yüze</b> randevu oluşturulmaktadır. İlk değerlendirme görüşmesi sonrasında takipte gerekirse ve hastanın durumu ile tanısı uygunsa online görüşme ile takip ve tedavi sürdürülebilir.
+
 Klinik psikolog görüşmesi için online görüşme randevusu oluşturulabilir.
+
+### 4. Doğrudan gelip muayene olabilir miyim?
+Kliniğimiz randevu sistemi ile çalışmaktadır, bu nedenle randevulu hastaların aldığı hizmeti etkilememek için randevusu hasta kabul edilememektedir. 
+
+### 5. Ön görüşme yapıyor musunuz?
+Kliniğimizde hasta ya da hasta yakınları ile ön görüşme uygulaması yoktur. Yalnızca normal muayene ve değerlendirme yapılmaktadır.
+
+### 5. Hasta gelmeden biz gelip anlatabilir miyiz?
+Hastanın kendisi ve rızası olmadan hasta yakınları ile görüşme yapılamamaktadır. Randevu sırasında hasta ile birlikte gelen hasta yakınları, aile üyeleri ile hastanın bilgisi ve rızası dahilinde, hasta ile görüşme yapıldıktan sonra görüşme yapılabilir
+
 
 # Online Görüşme
 Takipte <b>tanısı ve durumu online takip için uygun olan</b>, şehir dışından gelen ya da şehir dışına çıkan hastalarda görüşmeler online sürdürülebilir. Online görüşmeler belirli konularda özen gösterildiğinde sorunsuz bir şekilde yüzyüze görüşmeler gibi ilerlemekte, etki açısından bir fark bulunmamaktadır. Görüşme kalitesini arttırmak için bazı önerileri aşağıda bulabilirsiniz.
