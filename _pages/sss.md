@@ -24,7 +24,7 @@ Kliniğimiz randevu sistemi ile çalışmaktadır, bu nedenle randevulu hastalar
 Kliniğimizde hasta ya da hasta yakınları ile ön görüşme uygulaması yoktur. Yalnızca normal muayene ve değerlendirme yapılmaktadır.
 
 ### 5. Hasta gelmeden biz gelip anlatabilir miyiz?
-Hastanın kendisi ve rızası olmadan hasta yakınları ile görüşme yapılamamaktadır. Randevu sırasında hasta ile birlikte gelen hasta yakınları, aile üyeleri ile hastanın bilgisi ve rızası dahilinde, hasta ile görüşme yapıldıktan sonra görüşme yapılabilir
+Hastanın kendisi ve rızası olmadan hasta yakınları ile görüşme yapılamamaktadır. Randevu sırasında hasta ile birlikte gelen hasta yakınları, aile üyeleri ile hastanın bilgisi ve rızası dahilinde, hasta ile görüşme yapıldıktan sonra görüşme yapılabilir. Gerçeği değerlendirmenin ve içgörünün bozulduğu ağır ruhsal hastalıklarda hasta yakını görüşmesi elzemdir, bu durumlarda uzmanımız uygun bir şekilde hasta yakını ile görüşme yapacaktır. 
 
 
 # Online Görüşme
