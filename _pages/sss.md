@@ -23,15 +23,13 @@ Kliniğimiz randevu sistemi ile çalışmaktadır, bu nedenle randevulu hastalar
 ### 5. Ön görüşme yapıyor musunuz?
 Kliniğimizde hasta ya da hasta yakınları ile ön görüşme uygulaması yoktur. Yalnızca normal muayene ve değerlendirme yapılmaktadır.
 
-### 5. Hasta gelmeden biz gelip anlatabilir miyiz?
+### 6. Hasta gelmeden biz gelip anlatabilir miyiz?
 Hastanın kendisi ve rızası olmadan hasta yakınları ile görüşme yapılamamaktadır. Randevu sırasında hasta ile birlikte gelen hasta yakınları ile hastanın bilgisi ve rızası dahilinde, hasta ile görüşme yapıldıktan sonra görüşme yapılabilir. Gerçeği değerlendirmenin ve içgörünün bozulduğu ağır ruhsal hastalıklarda hasta yakını görüşmesi elzemdir, bu durumlarda uzmanımız uygun bir şekilde hasta yakını ile görüşme yapacaktır. 
 
+## Tedavi ve Takip Süreci Hakkında Sıkça Sorulanlar
 
-# Online Görüşme
-Takipte <b>tanısı ve durumu online takip için uygun olan</b>, şehir dışından gelen ya da şehir dışına çıkan hastalarda görüşmeler online sürdürülebilir. Online görüşmeler belirli konularda özen gösterildiğinde sorunsuz bir şekilde yüzyüze görüşmeler gibi ilerlemekte, etki açısından bir fark bulunmamaktadır. Görüşme kalitesini arttırmak için bazı önerileri aşağıda bulabilirsiniz.
+### 1. Nasıl randevu alabilirim?
+**Kliniğimizde online randevu sistemi kullanılmamaktadır.** Yalnızca telefonla arayarak ya da Whatsapp mesajı göndererek bilgi ve randevu alabilirsiniz.
 
-1. Lütfen yüzyüze görüşmeye gelir gibi görüşme vaktinde hazır bulunun.
-2. Görüşme yapılacak odanın mahremiyetinin sağlayarak konuşmaların bulunduğunuz yerdeki başka kişilerce duyulmasının engellenmesini sağlayın, mümkünse odada yalnız olun.
-3. Görüşme sırasında su dışında bir şey yemek ya da içmek dikkatinizi dağıtacağından lütfen görüşme sırasında bir şeyler yiyip içmeyin.
-4. Görüşmeyi cep telefonundan yapacaksanız telefonunuzu sabitlemeniz dikkatinizin dağılmasını önleyecektir.
-5. Görüşme yaparken kulaklık kullanmak teknik sorunları ve duyamama gibi sorunları azaltmakta, mahremiyeti sağlamaya yardımcı olmaktadır.
+### 2. Hangi yaş grubuna hizmet veriyorsunuz?
+Kliniğimizde 18 yaş altı hasta kabul edilmemekte **yalnızca yetişkinlere hizmet verilmektedir.** 
