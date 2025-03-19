@@ -29,7 +29,7 @@ Hastanın kendisi ve rızası olmadan hasta yakınları ile görüşme yapılama
 ## Tedavi ve Takip Süreci Hakkında Sıkça Sorulanlar
 
 ### 1. Hangi hastalıkların tedavisi için randevu alabilirim?
-Kliniğimizde tüm psikiyatrik hastalıklar için değerlendirme, tanı ve takip hizmeti verilmektedir. **Duygudurum bozuklukları ve tedaviye dirençli durumlarda kullanılan girişimsel olmayan beyin uyarım tedavileri konusunda uzman** kliniğimizde aşağıda listede yer alan hastalık ve durumlar için değerlendirme, tanı, takip ve tedavi hizmeti verilmektedir
+Kliniğimizde tüm psikiyatrik hastalıklar için değerlendirme, tanı ve takip hizmeti verilmektedir. **Duygudurum bozuklukları ve tedaviye dirençli durumlarda kullanılan girişimsel olmayan beyin uyarım tedavileri konusunda uzman** kliniğimizde aşağıda listede yer alan hastalık ve durumlar için değerlendirme, tanı, takip ve tedavi hizmeti verilmektedir.
 
 *  Major depresif bozukluk
 *  Yineleyici (tekrarlayıcı) depresif bozukluk
@@ -52,7 +52,7 @@ Kliniğimizde tüm psikiyatrik hastalıklar için değerlendirme, tanı ve takip
 *  Davranışsal bağımlılıklar (patolojik kumar oynama, online oyun bağımlılığı vb.)
 *  Alkol bağımlılığı
 *  Madde bağımlılığı
-* Sigara bağımlılığı
+*  Sigara bağımlılığı
 
 ### 2. Klinikte tetkik isteniyor mu? Nasıl yaptırabilirim?
 Kliniğimizde 18 yaş altı hasta kabul edilmemekte **yalnızca yetişkinlere hizmet verilmektedir.** 
