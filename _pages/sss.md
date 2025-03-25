@@ -5,7 +5,7 @@ description: Kliniğimize başvuru, tedavi ve takip süreçleri ile ilgili sık�
 permalink: /sss/
 ---
 ## Randevu Hakkında Sıkça Sorulanlar
-#### 1. Nasıl randevu alabilirim?
+### 1. Nasıl randevu alabilirim?
 **Kliniğimizde online randevu sistemi kullanılmamaktadır.** Yalnızca telefonla arayarak ya da Whatsapp mesajı göndererek bilgi ve randevu alabilirsiniz.
 
 ## 2. Hangi yaş grubuna hizmet veriyorsunuz?
