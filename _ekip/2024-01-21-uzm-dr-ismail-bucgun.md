@@ -9,11 +9,11 @@ image: '/images/drismail-profil.jpg'
 
 ## Akademik Eğitim
 1. **Çanakkale Onsekiz Mart Üniversitesi Tıp Fakültesi**<br>
-Tıpta Uzmanlık Eğitimi (Psikiyatri) • 2016 — 2020
+Tıpta Uzmanlık Eğitimi (Psikiyatri) • 2016 - 2020
 2. **Mersin Üniversitesi Tıp Fakültesi**<br>
-Tıp Doktoru 2009-**2015**
+Tıp Doktoru • 2009 - 2015
 3. **Mersin Fen Lisesi**<br>
-Lise **2009**
+Lise • 2009
 
 ## Aldığı Eğitimler
 1. **Duygudurum Bozuklukları Uzmanlık Sonrası Eğitim Programı (DUSEP)**<br>
