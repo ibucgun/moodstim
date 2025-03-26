@@ -6,3 +6,17 @@ date: 2025-01-21 08:00:00 +0300
 role: Psikiyatri Uzmanı, Klinik Kurucusu
 image: '/images/drismail-profil.jpg'
 ---
+
+## Akademik Eğitim
+1. Çanakkale Onsekiz Mart Üniversitesi Tıp Fakültesi
+Tıpta Uzmanlık Eğitimi (Psikiyatri) 2016-2020
+2. Mersin Üniversitesi Tıp Fakültesi
+Tıp Doktoru 2009-2015
+3. Mersin Fen Lisesi
+Lise 2009
+
+
+
+## Aldığı Eğitimler
+
+## Çalıştığı Kurumlar

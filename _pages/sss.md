@@ -8,7 +8,7 @@ permalink: /sss/
 ### 1. Nasıl randevu alabilirim?
 **Kliniğimizde online randevu sistemi kullanılmamaktadır.** Yalnızca telefonla arayarak ya da Whatsapp mesajı göndererek bilgi ve randevu alabilirsiniz.
 
-## 2. Hangi yaş grubuna hizmet veriyorsunuz?
+### 2. Hangi yaş grubuna hizmet veriyorsunuz?
 Kliniğimizde 18 yaş altı hasta kabul edilmemekte **yalnızca yetişkinlere hizmet verilmektedir.** 
 
 ### 3. Online muayene imkanı var mı?
