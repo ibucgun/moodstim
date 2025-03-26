@@ -53,4 +53,3 @@ Kliniğimizde tüm psikiyatrik hastalıklar için değerlendirme, tanı ve takip
 *  Sigara bağımlılığı
 
 ### 2. Klinikte tetkik isteniyor mu? Nasıl yaptırabilirim?
-Kliniğimizde 18 yaş altı hasta kabul edilmemekte **yalnızca yetişkinlere hizmet verilmektedir.** 
