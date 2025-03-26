@@ -24,4 +24,23 @@ Bipolar Bozukluklar Derneği tarafından yürütülen, ağırlıklı olarak duyg
 **Türkiye Psikiyatri Derneği • 2017 — 2020**<br>
 Türkiye Psikiyatri Derneği İstanbul şubesi tarafından yürütülen 110 saat kuramsal eğitim ve 80 saat üzeri süpervizyon ve 1 yıldan uzun süreli hasta takibi aşamalarındandan oluşan, yaklaşık 3.5 yıl süren Destekleyici Psikoterapi eğitimini tamamladım ve **Türkiye Psikiyatri Derneği Destekleyici Psikoterapi Uygulayıcısı sertifikası** aldım.
 
+3. **Psikiyatride Nöromodülasyon Kursu**<br>
+**Türkiye Psikiyatri Derneği • Ekim 2021**<br>
+Türkiye Psikiyatri Derneği'nin düzenlediği 57. Ulusal Psikiyatri Kongresi'nde transkraniyal manyetik stimülasyon (TMS) ve transkraniyal doğru akım uyarımı(tDCS) yöntemlerinin kullanımının anlatıldığı psikiyatride nöromodülasyon kursuna katıldım.
+
+4. **Bilişsel Davranışçı Terapi Temel Eğitimi**<br>
+**Bilişsel Davranışçı Psikoterapiler Derneği • 2022**<br>
+Bilişsel Davranışcı Psikoterapiler Derneği tarafından yürütülen Bilişsel Davranışçı Psikoterapi Temel Eğimi’ni tamamladım.
+
+4. **Cinsellik ve Cinsel İşlev Bozuklukları Temel Eğitimi**<br>
+**CETAD • 2020 — 2021**<br>
+Cinsel Eğitim Tedavi ve Araştırma Derneği(CETAD) tarafından yürütülen Cinsellik ve Cinsel İşlev Bozuklukları Temel Eğitimi’ni tamamladım.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/destekleyici-sertifika.jpg" loading="lazy" alt="Table">
+
+  </div>
+</div>
+
 ## Çalıştığı Kurumlar
