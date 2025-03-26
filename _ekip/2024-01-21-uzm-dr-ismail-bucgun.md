@@ -17,11 +17,11 @@ Lise • 2009
 
 ## Aldığı Eğitimler
 1. **Duygudurum Bozuklukları Uzmanlık Sonrası Eğitim Programı (DUSEP)**<br>
-Bipolar Bozukluklar Derneği • Mayıs 2021 — Haziran 2023<br>
-Bipolar Bozukluklar Derneği tarafından yürütülen, ağırlıklı olarak duygudurum bozuklukları alanında çalışacak genç psikiyatri uzmanlarını yetiştirme amacıyla düzenlenen, Türkiye genelinde çeşitli bölgelerden seçilen 30 genç uzmandan birisi olarak Duygudurum Bozuklukları Uzmanlık Sonrası Eğitim Programı'nın 2 yıl süren teorik eğitimlerini, hasta takibi ve süpervizyon aşamalarını tamamladım.
-2. **Mersin Üniversitesi Tıp Fakültesi**<br>
-Tıp Doktoru 2009-**2015**
-3. **Mersin Fen Lisesi**<br>
-Lise **2009**
+**Bipolar Bozukluklar Derneği • Mayıs 2021 — Haziran 2023**<br>
+Bipolar Bozukluklar Derneği tarafından yürütülen, ağırlıklı olarak duygudurum bozuklukları alanında çalışacak genç psikiyatri uzmanlarını yetiştirme amacıyla düzenlenen, **Türkiye genelinde çeşitli bölgelerden seçilen 30 genç uzmandan birisi olarak** Duygudurum Bozuklukları Uzmanlık Sonrası Eğitim Programı'nın 2 yıl süren teorik eğitimlerini, hasta takibi ve süpervizyon aşamalarını tamamladım.
+
+2. **Destekleyici Psikoterapi**<br>
+**Türkiye Psikiyatri Derneği • 2017 — 2020**<br>
+Türkiye Psikiyatri Derneği İstanbul şubesi tarafından yürütülen 110 saat kuramsal eğitim ve 80 saat üzeri süpervizyon ve 1 yıldan uzun süreli hasta takibi aşamalarındandan oluşan, yaklaşık 3.5 yıl süren Destekleyici Psikoterapi eğitimini tamamladım ve **Türkiye Psikiyatri Derneği Destekleyici Psikoterapi Uygulayıcısı sertifikası** aldım.
 
 ## Çalıştığı Kurumlar
