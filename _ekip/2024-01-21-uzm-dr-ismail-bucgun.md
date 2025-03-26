@@ -40,6 +40,8 @@ Cinsel Eğitim Tedavi ve Araştırma Derneği(CETAD) tarafından yürütülen Ci
   <div class="gallery">
     <img src="/images/dusep-sertifika.jpg" loading="lazy" alt="Table">
     <img src="/images/destekleyici-sertifika.jpg" loading="lazy" alt="Table">
+	<img src="/images/kurs-sertifika.jpg" loading="lazy" alt="Table">
+
   </div>
 </div>
 
