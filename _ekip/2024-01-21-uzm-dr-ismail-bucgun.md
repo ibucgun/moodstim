@@ -42,8 +42,17 @@ Cinsel Eğitim Tedavi ve Araştırma Derneği(CETAD) tarafından yürütülen Ci
     <img src="/images/destekleyici-sertifika.jpg" loading="lazy" alt="Table">
 	<img src="/images/kurs-sertifika.jpg" loading="lazy" alt="Table">
     <img src="/images/cetad-sertifika.jpg" loading="lazy" alt="Table">
-
   </div>
 </div>
 
 ## Çalıştığı Kurumlar
+1. **Serbest Hekim/Klinik**<br>
+**Uzman Doktor • Aralık 2022 — Halen**<br>
+Aralık 2022'de kamu görevinden ayrılarak serbest hekim olarak Adana'daki kliniğimde çalışmaya, hasta kabul etmeye başladım. Halen hastalarıma burada hizmet vermekteyim.
+
+2. **Adana Dr. Ekrem Tok Ruh Sağlığı ve Hastalıkları Hastanesi**<br>
+**Uzman Doktor • Kasım 2020 — Aralık 2022**<br>
+2 yıl süreyle bu kurumda 1. kadın servisi doktoru ve ek olarak 1 yıl adli psikiyatri sağlık kurulu başkanı olarak çalıştım. Burada çalıştığım 2 yıllık dönemde özellikle kronik psikiyatrik hastalıklar (şizofreni gibi psikotik bozukluklar, bipolar duygudurum bozukluğu, yineleyici depresif bozukluk, kronik depresif bozukluk vb.) başta olmak üzere tüm psikiyatrik hastalıkların yatarak ve ayaktan tedavileri konusunda deneyim kazanıp, yüzlerce hastanın tedavisini sürdürdüm ve ayaktan takip ettim.
+
+3. **Çanakkale Onsekiz Mart Üniversitesi Sağlık Uygulama ve Araştırma Hastanesi**<br>
+**Araştırma Görevlisi Doktor • Temmmuz 2016 — Kasım 2020**<br>
