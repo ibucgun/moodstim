@@ -9,7 +9,12 @@ image: '/images/pskaleyna-profil.jpg'
 ---
 
 ## Akademik Eğitim
-
+1. **İstanbul Kent Üniversitesi**<br>
+Klinik Psikoloji (Yüksek Lisans) • 2022 - 2024
+2. **Aydın Adnan Menderes Üniversitesi**<br>
+Psikoloji (Lisans Eğitimi) • 2016 - 2020
+3. **İstiklal Makzume Anadolu Lisesi**<br>
+Lise • 2015
 
 ## Aldığı Eğitimler
 
