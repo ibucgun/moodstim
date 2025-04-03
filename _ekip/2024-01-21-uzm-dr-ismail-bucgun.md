@@ -1,6 +1,6 @@
 ---
 title: Uzm. Dr. İsmail BUÇGÜN
-description: 2015'te tıp doktoru, 2020'de psikiyatri uzmanı olmuştur. 2025'te Avrupa Psikiyatri Birliği board sınavını geçerek Avrupa çapında kabul gören bir yeterlilik derecesi anlamına gelen 'Fellow of the European Board of Psychiatry (FEBP)' ünvanı almıştır.
+description: 2015'te tıp doktoru, 2020'de psikiyatri uzmanı olmuştur. 2025'te Avrupa Psikiyatri Birliği board sınavını geçerek <b>Avrupa çapında kabul gören bir yeterlilik derecesi anlamına gelen 'Fellow of the European Board of Psychiatry (FEBP)'</b> ünvanı almıştır.
 category: Psikiyatri Uzmanı
 date: 2025-01-21 08:00:00 +0300
 client: Klinik Kurucusu, Psikiyatri Uzmanı, Tanı ve Tedavi Süreçlerinin Yönetimi
