@@ -1,6 +1,6 @@
 ---
 title: Uzm. Dr. İsmail BUÇGÜN
-description: 2015'te tıp doktoru, 2020'de psikiyatri uzmanı olmuştur. 2025'te Avrupa Psikiyatri Kurulu Üyesi (FEBP) olmuştur. 
+description: 2015'te tıp doktoru, 2020'de psikiyatri uzmanı olmuştur. 2025'te Avrupa Psikiyatri Birliği board sınavını geçerek Avrupa çapında kabul gören bir yeterlilik derecesi anlamına gelen 'Fellow of the European Board of Psychiatry (FEBP)' ünvanı almıştır.
 category: Psikiyatri Uzmanı
 date: 2025-01-21 08:00:00 +0300
 client: Klinik Kurucusu, Psikiyatri Uzmanı, Tanı ve Tedavi Süreçlerinin Yönetimi
@@ -57,3 +57,6 @@ Aralık 2022'de kamu görevinden ayrılarak serbest hekim olarak Adana'daki klin
 
 3. **Çanakkale Onsekiz Mart Üniversitesi Sağlık Uygulama ve Araştırma Hastanesi**<br>
 **Araştırma Görevlisi Doktor • Temmmuz 2016 — Kasım 2020**<br>
+
+## Mesleki Üyelikleri
+Türkiye Psikiyatri Derneği, Bipolar Bozukluklar Derneği, Uluslararası Bipolar Bozukluklar Derneği (ISBD), Beyin Uyarım Akademisi (Brain Stimulation Academy) ve Adana Tabip Odası üyesidir.
