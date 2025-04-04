@@ -34,6 +34,14 @@ Bilişsel Davranışcı Psikoterapiler Derneği tarafından yürütülen Değerl
 İzmir Psikoloji Enstitüsü bünyesinde Nevin Dölek tarafından düzenlenen Kısa Süreli Çözüm Odaklı Psikoterapi Eğitimi'ni tamamladı.
 
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/aleyna-bdt-3.jpg" loading="lazy" alt="Klinik Psikolog Aleyna Sultanoğlu Bilişsel Davranışçı Psikoterapi Temel Eğitim Sertifikası">
+    <img src="/images/aleyna-bdt-2.jpg" loading="lazy" alt="Klinik Psikolog Aleyna Sultanoğlu Bilişsel Davranışçı Psikoterapi Beceri Eğitimi Sertifikası">
+    <img src="/images/aleyna-bdt-1.jpg" loading="lazy" alt="Klinik Psikolog Aleyna Sultanoğlu Bilişsel Davranışçı Psikoterapi Değerlendirme ve Tanı Eğitimi Sertifikası">
+  </div>
+</div>
+
 ## Çalıştığı Kurumlar, Deneyimler
 1. **MoodStm Psikiyatri Kliniği**<br>
 **Klinik Psikolog • Ocak 2025 — Halen**<br>
@@ -46,11 +54,3 @@ Açıklama
 3. **Şahin Özel Eğitim ve Rehabilitasyon Merkezi**<br>
 **Psikolog • Aralık 2021 — Ağustos 2022**<br>
 Açıklama
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/aleyna-bdt-3.jpg" loading="lazy" alt="Klinik Psikolog Aleyna Sultanoğlu Bilişsel Davranışçı Psikoterapi Temel Eğitim Sertifikası">
-    <img src="/images/aleyna-bdt-2.jpg" loading="lazy" alt="Klinik Psikolog Aleyna Sultanoğlu Bilişsel Davranışçı Psikoterapi Beceri Eğitimi Sertifikası">
-    <img src="/images/aleyna-bdt-1.jpg" loading="lazy" alt="Klinik Psikolog Aleyna Sultanoğlu Bilişsel Davranışçı Psikoterapi Değerlendirme ve Tanı Eğitimi Sertifikası">
-  </div>
-</div>
