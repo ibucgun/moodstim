@@ -64,4 +64,4 @@ Aralık 2022'de kamu görevinden ayrılarak serbest hekim olarak Adana'daki klin
 **Araştırma Görevlisi Doktor • Temmmuz 2016 — Kasım 2020**<br>
 
 ## Mesleki Üyelikleri
-Türkiye Psikiyatri Derneği, Bipolar Bozukluklar Derneği, Uluslararası Bipolar Bozukluklar Derneği (ISBD), Beyin Uyarım Akademisi (Brain Stimulation Academy) ve Adana Tabip Odası üyesidir.
+Türkiye Psikiyatri Derneği, Bipolar Bozukluklar Derneği, Uluslararası Bipolar Bozukluklar Derneği (ISBD), Beyin Uyarımı Akademisi (Academy of Brain Stimulation) ve Adana Tabip Odası üyesidir.
