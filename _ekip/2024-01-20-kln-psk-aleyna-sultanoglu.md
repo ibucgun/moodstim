@@ -45,12 +45,16 @@ Bilişsel Davranışcı Psikoterapiler Derneği tarafından yürütülen Değerl
 ## Çalıştığı Kurumlar, Deneyimler
 1. **MoodStm Psikiyatri Kliniği**<br>
 **Klinik Psikolog • Ocak 2025 — Halen**<br>
-Açklama
+Ocak 2025 tarihinden itibaren klinik psikolog olarak uygun erişkin hastalarda kanıta dayalı bireysel psikoterapi uygulamaları, psikoeğitim ve psikometrik değerlendirme hizmetleri vermektedir.
 
 2. **Wonder Psikolojik Danışmanlık Merkezi**<br>
 **Psikolog • Ağustos 2023 — Aralık 2023**<br>
-Açıklama
 
 3. **Şahin Özel Eğitim ve Rehabilitasyon Merkezi**<br>
 **Psikolog • Aralık 2021 — Ağustos 2022**<br>
-Açıklama
+
+4. **Derinlik Psikoterapi ve Aile Danışmanlığı Merkezi**<br>
+**Psikolog • Ekim 2020 — Kasım 2021**<br>
+
+5. **Adnan Menderes Üniversitesi Hastanesi**<br>
+**Stajyer Psikolog • Şubat 2020**<br>
