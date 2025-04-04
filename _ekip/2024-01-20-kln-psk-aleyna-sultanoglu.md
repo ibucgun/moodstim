@@ -17,6 +17,32 @@ Psikoloji (Lisans Eğitimi) • 2016 - 2020
 Lise • 2015
 
 ## Aldığı Eğitimler
+1. **Bilişsel Davranışçı Terapi Temel Eğitimi**<br>
+**Bilişsel Davranışçı Psikoterapiler Derneği • 2022**<br>
+Bilişsel Davranışcı Psikoterapiler Derneği tarafından yürütülen Bilişsel Davranışçı Psikoterapi Temel Eğimi’ni tamamladı.
+
+2. **Bilişsel Davranışçı Terapi Beceri Eğitimi**<br>
+**Bilişsel Davranışçı Psikoterapiler Derneği • 2022**<br>
+Bilişsel Davranışcı Psikoterapiler Derneği tarafından yürütülen uygulamaya yönelik Bilişsel Davranışçı Psikoterapi Beceri Eğimi’ni tamamladı.
+
+3. **Bilişsel Davranışçı Terapi Değerlendirme ve Yapılandırılmış Görüşme Eğitimi**<br>
+**Bilişsel Davranışçı Psikoterapiler Derneği • 2022**<br>
+Bilişsel Davranışcı Psikoterapiler Derneği tarafından yürütülen Değerlendirme ve Yapılandırılmış Görüşme Eğitimi’ni tamamladı.
+
+4. **Kısa Süreli Çözüm Odaklı Terapi Eğitimi**<br>
+**İzmir Psikoloji Enstitüsü • 2022**<br>
+İzmir Psikoloji Enstitüsü bünyesinde Nevin Dölek tarafından düzenlenen Kısa Süreli Çözüm Odaklı Psikoterapi Eğitimi'ni tamamladı.
 
 
-## Çalıştığı Kurumlar
+## Çalıştığı Kurumlar, Deneyimler
+1. **MoodStm Psikiyatri Kliniği**<br>
+**Klinik Psikolog • Ocak 2025 — Halen**<br>
+Açklama
+
+2. **Wonder Psikolojik Danışmanlık Merkezi**<br>
+**Psikolog • Ağustos 2023 — Aralık 2023**<br>
+Açıklama
+
+3. **Şahin Özel Eğitim ve Rehabilitasyon Merkezi**<br>
+**Psikolog • Aralık 2021 — Ağustos 2022**<br>
+Açıklama
