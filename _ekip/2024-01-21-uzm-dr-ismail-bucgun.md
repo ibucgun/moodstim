@@ -39,15 +39,15 @@ Cinsel Eğitim Tedavi ve Araştırma Derneği(CETAD) tarafından yürütülen Ci
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/dusep-sertifika.jpg" loading="lazy" alt="Table">
-    <img src="/images/destekleyici-sertifika.jpg" loading="lazy" alt="Table">
+    <img src="/images/dusep-sertifika.jpg" loading="lazy" alt="Uzm. Dr. İsmail BUÇGÜN Duygudurum Bozuklukları Uzmanlık Sonrası Eğitim Programı Sertifikası">
+    <img src="/images/destekleyici-sertifika.jpg" loading="lazy" alt="Uzm. Dr. İsmail BUÇGÜN Destekleyici Psikoterapi Uygulayıcı Sertifikası">
   </div>
 </div>
 
 <div class="gallery-box">
   <div class="gallery">
-	<img src="/images/kurs-sertifika.jpg" loading="lazy" alt="Table">
-    <img src="/images/cetad-sertifika.jpg" loading="lazy" alt="Table">
+	<img src="/images/kurs-sertifika.jpg" loading="lazy" alt="Uzm. Dr. İsmail BUÇGÜN Cinsellik ve Cinsel İşlev Bozuklukları Temel Eğitim Sertifikası">
+    <img src="/images/cetad-sertifika.jpg" loading="lazy" alt="Uzm. Dr. İsmail BUÇGÜN Bilişsel Davranışçı Psikoterapi Temel Eğitim Sertifikası">
   </div>
 </div>
 
