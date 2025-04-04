@@ -1,6 +1,6 @@
 ---
 title: Kln. Psk. Aleyna SULTANOĞLU
-description: s
+description: 2020'de psikoloji lisans, 2024'te klinik psikoloji yüksek lisans eğitimlerini tamamladı. Bilişsel davranışçı psikoterapi başta olmak üzere bireysel psikoterapi konusunda uzmanlaşmıştır.
 category: Uzman Psikolog
 date: 2025-01-20 08:00:00 +0300
 client: Klinik Psikolog, Bireysel Psikoteraği, Psikoeğitim
