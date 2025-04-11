@@ -19,7 +19,7 @@ pre {
 
 ul, ol,
 dd {
-  margin-left: calc($base-spacing-unit * 2);
+  margin-left: $list-spacing-unit;
   padding-left: 4px;
 }
 
