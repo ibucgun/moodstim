@@ -192,7 +192,7 @@ footer__background__image: "/images/bg.jpg"
 # Contact Settings
 contact:
   email: xldjdpkk # Add your form_id
-  description: Klinik iletişim bilgileri ve konumu hakkında bu sayfadaki ayrıntılı bilgileri kullanabilir, ihtiyaç duyduğunuzda aşağıdaki iletişim formunu kullanabilirsiniz.
+  description: Adana'daki psikiyatri kliniğimizin iletişim bilgileri ve konumu hakkında bu sayfadaki ayrıntılı bilgileri kullanabilir, ihtiyaç duyduğunuzda aşağıdaki iletişim formunu kullanabilirsiniz.
 
 # NOTE
 # Akio theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
