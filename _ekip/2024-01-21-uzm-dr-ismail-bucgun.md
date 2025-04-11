@@ -65,3 +65,10 @@ Aralık 2022'de kamu görevinden ayrılarak serbest hekim olarak Adana'daki klin
 
 ## Mesleki Üyelikleri
 Türkiye Psikiyatri Derneği, Bipolar Bozukluklar Derneği, Uluslararası Bipolar Bozukluklar Derneği (ISBD), Beyin Uyarımı Akademisi (Academy of Brain Stimulation) ve Adana Tabip Odası üyesidir.
+
+<div class="gallery-box">
+  <div class="gallery">
+	<img src="/images/febp-avrupa-board-sertifikasi.png" loading="lazy" alt="Uzm. Dr. İsmail BUÇGÜN Avrupa Board Sertifikası">
+    <img src="/images/brain-stimulation-academy-sertifika.png" loading="lazy" alt="Uzm. Dr. İsmail BUÇGÜN Beyin Uyarım Akademisi Sertifikası">
+  </div>
+</div>
