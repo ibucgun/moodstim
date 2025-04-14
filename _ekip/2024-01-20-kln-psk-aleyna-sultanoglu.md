@@ -4,7 +4,7 @@ description: 2020'de psikoloji lisans, 2024'te klinik psikoloji yüksek lisans e
 category: Uzman Psikolog
 date: 2025-01-20 08:00:00 +0300
 client: Klinik Psikolog, Bireysel Psikoteraği, Psikoeğitim
-role: Anksiyete Bozuklukları, Obsesif Kompulsif Bozukluk, Duygudurum Bozuklukları
+role: Anksiyete Bozuklukları, Obsesif Kompulsif Bozukluk, Depresyon
 image: '/images/pskaleyna-profil.jpg'
 ---
 
