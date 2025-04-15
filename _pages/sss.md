@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sıkça Sorulan Sorular
-description: Kliniğimize başvuru, tedavi ve takip süreçleri ile ilgili sıkça sorulan soruların yanıtlarına buradan ulaşabilirsiniz.
+description: Adana'daki psikiyatri kliniğimize başvuru, tedavi ve takip süreçleri ile ilgili sıkça sorulan soruların yanıtlarına buradan ulaşabilirsiniz.
 permalink: /sss/
 ---
 ## Randevu Hakkında Sıkça Sorulanlar
