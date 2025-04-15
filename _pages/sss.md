@@ -25,8 +25,6 @@ Kliniğimizde hasta ya da hasta yakınları ile ön görüşme uygulaması yoktu
 ### 6. Hasta gelmeden biz gelip anlatabilir miyiz?
 Hastanın kendisi ve rızası olmadan hasta yakınları ile görüşme yapılamamaktadır. Randevu sırasında hasta ile birlikte gelen hasta yakınları ile hastanın bilgisi ve rızası dahilinde, hasta ile görüşme yapıldıktan sonra görüşme yapılabilir. Gerçeği değerlendirmenin ve içgörünün bozulduğu ağır ruhsal hastalıklarda hasta yakını görüşmesi elzemdir, bu durumlarda uzmanımız uygun bir şekilde hasta yakını ile görüşme yapacaktır. 
 
-<hr>
-
 ## Tedavi ve Takip Süreci Hakkında Sıkça Sorulanlar
 ### 1. Hangi hastalıkların tedavisi için randevu alabilirim?
 Kliniğimizde tüm psikiyatrik hastalıklar için değerlendirme, tanı ve takip hizmeti verilmektedir. **Duygudurum bozuklukları ve tedaviye dirençli durumlarda kullanılan girişimsel olmayan beyin uyarım tedavileri konusunda uzman** kliniğimizde aşağıda listede yer alan hastalık ve durumlar için değerlendirme, tanı, takip ve tedavi hizmeti verilmektedir.
