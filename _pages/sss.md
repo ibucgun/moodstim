@@ -53,3 +53,12 @@ Kliniğimizde tüm psikiyatrik hastalıklar için değerlendirme, tanı ve takip
 *  Sigara bağımlılığı
 
 ### 2. Klinikte tetkik isteniyor mu? Nasıl yaptırabilirim?
+Psikiyatrik değerlendirme sonrasında bazı durumlarda ayırıcı tanı için beyin görüntüleme ve kan tetkiki gerekebilir. Gerekli durumlarda istenen bu tetkiklerin tamamını yan binadaki anlaşmalı sağlık kurumunda zahmetsizce, farklı bir yere gitmeden, uygun fiyata yaptırabilirsiniz. 
+Duygudurum bozukluğu olan hastaların kullandığı ilaçlar olan lityum, valproat ve karbamazepin gibi ilaçların kan düzeyleri de aynı şekilde zahmetsizce, ek bir kuruma başvurmadan yapılabilmektedir.
+
+### 3. Alkol/madde bağımlılığı tedavisi için başvurabilir miyim?
+Evet. Kendi isteği ile başvuran, tedavi motivasyonu ve isteği olan kişilerde alkol ve madde bağımlılığı tedavisi ve takibi de yapıyoruz.
+
+### 4. İlaç tedavisi olmadan yalnızca psikoterapi hizmeti alabilir miyim?
+Psikiyatrik değerlendirme sonrasında durumunuz yalnızca psikoterapi ile takibe uygunsa ilaç tedavisi olmadan yalnızca bireysel psikoterapi hizmeti alabilirsiniz.
+
