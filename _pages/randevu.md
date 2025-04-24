@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Randevu
-description: Adana'da psikiyatri ve klinik psikoloji alanında hizmet veren kliniğimizden randevu almak için klinik iletişim numarasını arayabilir ya da Whatsapp mesajı gönderebilirsiniz.
+description: Adana psikiyatri kliniğimizden psikiyatri ve klinik psikoloji alanında destek almak için klinik iletişim numarasını arayabilir ya da Whatsapp mesajı gönderebilirsiniz.
 permalink: /randevu/
 ---
 ## Randevu Hakkında Genel Bilgiler
