@@ -8,4 +8,4 @@ image: '/images/hizmet-psikiyatrik-degerlendirme.jpg'
 
 ---
 
-Psikiyatrik değerlendirme sırasında psikiyatrist, duygu, düşünce ve davranış süreçlerini ve gelişim aşamalarını sistematik bir şekide değerlendirir. Bu süreç yaş ve var olan şikayetlere göre farklılık gösterebilir.
+Psikiyatrik değerlendirme sırasında psikiyatrist; duygu, düşünce ve davranış süreçlerini ve gelişim aşamalarını sistematik bir şekide değerlendirir. Bu süreç yaş ve var olan şikayetlere göre farklılık gösterebilir.
