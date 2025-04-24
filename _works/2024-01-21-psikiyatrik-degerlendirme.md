@@ -1,6 +1,6 @@
 ---
 title: Psikiyatrik Değerlendirme
-description: Bir psikiyatristin mevcut durumu değerlendirmek ve tanı koymak, sonrasında  da tedavi planı yapmak için yaptığı kapsamlı ve sistematik incelemedir. 
+description: Bir psikiyatristin mevcut durumu değerlendirmek ve tanı koymak, sonrasında  da tedavi planı oluşturmak için yaptığı kapsamlı ve sistematik incelemedir. 
 category: Tanısal Değerlendirme
 date: 2025-04-24 08:00:00 +0300
 role: Uzm. Dr. İsmail BUÇGÜN
