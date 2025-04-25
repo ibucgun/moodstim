@@ -14,7 +14,11 @@ Psikiyatrik değerlendirme sırasında psikiyatrist; kişinin duygu, düşünce 
 Psikiyatrik değerlendirmenin birkaç temel unsuru vardır. Başvuru şikayetinden bağımsız olarak tüm hastalarda temel bazı alanlar değerlendirilir.
 
 1. **Öykü Alma:** Görüşme sırasında mevcut şikayetler ve yakınmalar öğrenilir. Var olan belirtilerin ne zaman başladığı ve nasıl seyrettiği hakkında bilgi toplanır.
-2. **Yaşam Öyküsü Alma:** Geçmişteki diğer tıbbi hastalık ve psikiyatrik hastalıklar, aldığınız tedaviler, ailede hastalık öyküsü araştırılır.
-3. **Ruhsal Durum Muayenesi:** Görüşme sırasında psikiyatri uzmanı muayene sırasındaki duygu, düşünce ve davranışları değerlendirir. Bu değerlendirme, dış görünüş ve davranışların gözleminden başlayarak duygudurum, düşüncelerin akışı ve içeriği, konuşma özellikleri, algılar, bilişsel işlev gibi alanları kapsar.
+2. **Yaşam Öyküsü Alma:** Geçmişteki diğer tıbbi hastalık ve psikiyatrik hastalıklar, kullandığı ilaçlar, hastane yatışları, aldığı diğer tedaviler, ailede hastalık öyküsü araştırılır.
+3. **Ruhsal Durum Muayenesi:** Görüşme sırasında psikiyatri uzmanı muayene sırasındaki duygu, düşünce ve davranışları değerlendirir. Bu değerlendirme, dış görünüş ve davranışların gözleminden başlayarak duygudurum, düşüncelerin akışı, içeriği ve yapısı, konuşma özellikleri, algılar, bilişsel işlev gibi alanları kapsar.
+4. **Gerekli Test ve Değerlendirmeler:** Bazı durumlarda görüşmeye ek olarak bazı psikolojik testlerin yapılması istenebilir. Bunlar tanısal olmasa da tanıya yardımcı ya da mevcu durumun şiddetini tespit etmek için uygulan ölçek ve test bataryalardır. Bazı hastalarda ayırıcı tanı ve diğer tıbbi durumların değerlendirilmesi için kan tetkikleri, idrarda madde testi, beyin görüntüleme ve EEG gibi değerlendirmeler gerekebilir.
+5. **Fizik Muayene:** Ayırıcı tanı için gerekli durumlarda fizik muayene ve nörolojik muayene yapılabilir.
+
+Tüm bu adımlardan elde edilen bilgiler bir araya getirilerek değerlendirme süreci tamamlanır.
 
 ## Psikiyatrik değerlendirme ne kadar sürer?
