@@ -22,3 +22,6 @@ Psikiyatrik değerlendirmenin birkaç temel unsuru vardır. Başvuru şikayetind
 Tüm bu adımlardan elde edilen bilgiler bir araya getirilerek değerlendirme süreci tamamlanır.
 
 ## Psikiyatrik değerlendirme ne kadar sürer?
+Psikiyatrik değerlendirmenin sabit bir süresi yoktur ve her hasta için farklılık gösterebiir. İlk değerlendirme görüşmesi genellikle 40-50 dakika sürer. Kişinin yaşam öyküsünün karmaşıklığı, hastalık dönemi ve tedavi öyküsünün uzunluğu, ek değerlendirme gerekliliği gibi faktörler görüşme süresini etkileyebilir.
+
+## Değerlendirme sonrası süreç nasıl ilerler?
