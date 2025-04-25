@@ -27,3 +27,9 @@ Psikiyatrik değerlendirmenin sabit bir süresi yoktur ve her hasta için farkl�
 ## Değerlendirme sonrası süreç nasıl ilerler?
 Psikiyatrik değerlendirme tamamlandığında psikiyatri uzmanı, elde edilen bütün bilgileri gözden geçirerek bir formülasyon yapar. Burada hastanın mevcut durumu, varsa psikiyatrik hastalık tanısı, bu durumu etkileyen tıbbi ve psikososyal etkenler ile hastanın bireysel ihtiyaçları ortaya konur. Mevcut tanı ve bireysel ihtiyaçlar göz önünde bulundurularak hasta ile birlikte tedavi planı oluşturulur.
 Tüm bu süreçte psikiyatri uzmanı hastayı durumu ve varsa hastalık tanısı hakkında bilgilendirir.
+
+## Değerlendirmede gizlilik sağlanır mı?
+Psikiyatrik değerlendirme, güven ve gizlilik esasına dayalı bir süreçtir. Bu süreçte elde edilen bilgiler yasal ve meslek etiği kuralları gereği gizli tutulur. **Hastanın izni olmadan aile üyeleri dahil hiçbir 3. kişi veya kurumlarla paylaşılmaz.** Değerlendirme sonrasında tedavi sürecinde hastanın da görüşleri dikkate alınarak bir tedavi planı oluşturulur, **tüm tedavi yöntemleri için hastanın isteği ve onayı şarttır.**
+
+## Sonuç
+Psikiyatik değerlend
