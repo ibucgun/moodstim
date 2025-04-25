@@ -25,3 +25,5 @@ Tüm bu adımlardan elde edilen bilgiler bir araya getirilerek değerlendirme s�
 Psikiyatrik değerlendirmenin sabit bir süresi yoktur ve her hasta için farklılık gösterebiir. İlk değerlendirme görüşmesi genellikle 40-50 dakika sürer. Kişinin yaşam öyküsünün karmaşıklığı, hastalık dönemi ve tedavi öyküsünün uzunluğu, ek değerlendirme gerekliliği gibi faktörler görüşme süresini etkileyebilir.
 
 ## Değerlendirme sonrası süreç nasıl ilerler?
+Psikiyatrik değerlendirme tamamlandığında psikiyatri uzmanı, elde edilen bütün bilgileri gözden geçirerek bir formülasyon yapar. Burada hastanın mevcut durumu, varsa psikiyatrik hastalık tanısı, bu durumu etkileyen tıbbi ve psikososyal etkenler ile hastanın bireysel ihtiyaçları ortaya konur. Mevcut tanı ve bireysel ihtiyaçlar göz önünde bulundurularak hasta ile birlikte tedavi planı oluşturulur.
+Tüm bu süreçte psikiyatri uzmanı hastayı durumu ve varsa hastalık tanısı hakkında bilgilendirir.
