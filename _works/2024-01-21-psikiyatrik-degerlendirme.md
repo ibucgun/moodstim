@@ -2,7 +2,7 @@
 title: Psikiyatrik Değerlendirme
 description: Psikiyatri uzmanının kişinin ruhsal durumunu anlamak için yaptığı kapsamlı inceleme sürecidir.
 category: Tanısal Değerlendirme
-date: 2025-04-24 08:00:00 +0300
+date: 2025-04-25 08:00:00 +0300
 role: Uzm. Dr. İsmail BUÇGÜN
 image: '/images/hizmet-psikiyatrik-degerlendirme.jpg'
 
