@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: MoodStim | Adana Psikiyatri Kliniği
+title: MoodStim • Adana Psikiyatri Kliniği
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Adana psikiyatri kliniği MoodStim, duygudurum bozuklukları ve TMS tedavisi başta olmak üzere psikiyatrinin pek çok alanında modern hizmetler sunar.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -49,7 +49,7 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: MoodStim'e Hoşgeldiniz!
+  hero__title: MoodStim • Adana Psikiyatri Kliniği
   hero__description: Adana'daki psikiyatri kliniğimizde <b>depresyon ve bipolar bozukluk gibi duygudurum bozuklukları</b> ve <b>beyin uyarım tedavileri</b> başta olmak üzere psikiyatri ve klinik psikolojinin pek çok alanında <b>uzman ekibimizle, bilimsel kanıta dayalı, modern tanı ve tedavi yöntemleri ile</b> hizmet veriyoruz. 
   hero__image: "/images/01-1.jpg"
 
