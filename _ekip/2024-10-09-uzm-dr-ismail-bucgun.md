@@ -2,7 +2,7 @@
 title: Uzm. Dr. İsmail BUÇGÜN
 description: 2015'te tıp doktoru, 2020'de psikiyatri uzmanı olmuştur. 2025'te Avrupa Psikiyatri Birliği board sınavını geçerek <b>Avrupa çapında kabul gören bir yeterlilik derecesi anlamına gelen 'Fellow of the European Board of Psychiatry (FEBP)'</b> ünvanı almıştır.
 category: Psikiyatri Uzmanı
-date: 2025-04-25 08:00:00 +0300
+date: 2025-10-09 08:00:00 +0300
 client: Klinik Kurucusu, Psikiyatri Uzmanı, Tanı ve Tedavi Süreçlerinin Yönetimi
 role: Duygudurum Bozuklukları, Yaşlılık Psikiyatrisi, Psikotik Bozukluklar, Nöropsikiyatri
 image: '/images/drismail-profil.jpg'
@@ -21,19 +21,32 @@ Lise • 2009
 **Bipolar Bozukluklar Derneği • Mayıs 2021 — Haziran 2023**<br>
 Bipolar Bozukluklar Derneği tarafından yürütülen, ağırlıklı olarak duygudurum bozuklukları alanında çalışacak genç psikiyatri uzmanlarını yetiştirme amacıyla düzenlenen, **Türkiye genelinde çeşitli bölgelerden seçilen 30 genç uzmandan birisi olarak** Duygudurum Bozuklukları Uzmanlık Sonrası Eğitim Programı'nın 2 yıl süren teorik eğitimlerini, hasta takibi ve süpervizyon aşamalarını tamamladı.
 
-2. **Destekleyici Psikoterapi**<br>
+2. **International Diploma in Older Adults’ Mental Health**
+**Royal College of Psychiatrists • Eylül 2025 — Halen**<br>
+İngiltere Kraliyet Psikiyatri Koleji tarafından, dünya genelinden farklı ülkelerden psikiyatristlerin kabul edildiği; yaşlılık psikiyatrisi alanında bilgi ve beceri düzeyini arttırmaya yönelik düzenlenen, 1 yıl sürecek, kanıta dayalı yaklaşımların anlatıldığı yapılandırılmış diploma programına bu yıl kabul edilen 15 kişiden birisi olarak halen bu eğitime devam etmektedir.
+
+3. **Master Psychopharmacology Program**
+**Neuroscience Education Institute • Ocak 2025 — Halen**<br>
+Neuroscience Education Institute tarafından yürütülen, psikofarmakoloji (psikiyatrik ilaç tedavileri) ve nörobilim konusunda bilgi ve beceri düzeyini arttırmaya yönelik eğitim programına halen devam etmektedir.
+
+4. **Kişilerarası İlişkiler Psikoterapisi (KİPT)**
+**Kişilerarası İlişkiler Psikoterapisi Derneği  • Mayıs 2025 — Haziran 2025**<br>
+Kişilerarası İlişkiler Psikoterapisi Derneği tarafından yürütülen 64 saatlik temel teorik ve pratik modüler KİPT eğitimini tamamladı. Halen bu psikoterapi yöntemi için yaklaşık 2 yıl sürecek süpervizyon eğitimine devam etmektedir.
+
+
+5. **Destekleyici Psikoterapi**<br>
 **Türkiye Psikiyatri Derneği • 2017 — 2020**<br>
 Türkiye Psikiyatri Derneği İstanbul şubesi tarafından yürütülen 110 saat kuramsal eğitim ve 80 saat üzeri süpervizyon ve 1 yıldan uzun süreli hasta takibi aşamalarındandan oluşan, yaklaşık 3.5 yıl süren Destekleyici Psikoterapi eğitimini tamamladım ve **Türkiye Psikiyatri Derneği Destekleyici Psikoterapi Uygulayıcısı sertifikası** aldı.
 
-3. **Psikiyatride Nöromodülasyon Kursu**<br>
+6. **Psikiyatride Nöromodülasyon Kursu**<br>
 **Türkiye Psikiyatri Derneği • Ekim 2021**<br>
 Türkiye Psikiyatri Derneği'nin düzenlediği 57. Ulusal Psikiyatri Kongresi'nde transkraniyal manyetik stimülasyon (TMS) ve transkraniyal doğru akım uyarımı(tDCS) yöntemlerinin kullanımının anlatıldığı psikiyatride nöromodülasyon kursuna katıldı.
 
-4. **Bilişsel Davranışçı Terapi Temel Eğitimi**<br>
+7. **Bilişsel Davranışçı Terapi Temel Eğitimi**<br>
 **Bilişsel Davranışçı Psikoterapiler Derneği • 2022**<br>
 Bilişsel Davranışcı Psikoterapiler Derneği tarafından yürütülen Bilişsel Davranışçı Psikoterapi Temel Eğimi’ni tamamladı.
 
-4. **Cinsellik ve Cinsel İşlev Bozuklukları Temel Eğitimi**<br>
+8. **Cinsellik ve Cinsel İşlev Bozuklukları Temel Eğitimi**<br>
 **CETAD • 2020 — 2021**<br>
 Cinsel Eğitim Tedavi ve Araştırma Derneği(CETAD) tarafından yürütülen Cinsellik ve Cinsel İşlev Bozuklukları Temel Eğitimi’ni tamamladı.
 
