@@ -79,11 +79,10 @@ Dünya genelinde yapılan yüzlerce randomize kontrollü çalışma, BDT’nin d
 NICE (İngiltere Ulusal Sağlık Enstitüsü), Amerikan Psikiyatri Birliği (APA) ve Dünya Sağlık Örgütü (WHO) gibi otoriteler, depresyon, anksiyete ve obsesif kompulsif bozukluk tedavilerinde BDT’yi öncelikli psikoterapi yöntemi olarak önermektedir.
 
 ## 7. Terapi sürecinde dikkat edilmesi gerekenler nelerdir?
-
-•	Seanslara düzenli katılım ve ev ödevlerinin yapılması, terapinin başarısı için kritik öneme sahiptir.
-•	Kısa süreli bir terapi olsa da kazanımlar uzun sürelidir; çünkü kişi kendi kendine farkındalık geliştirmeyi öğrenir.
-•	Gerekli durumlarda ilaç tedavisiyle kombine biçimde uygulanabilir.
-•	BDT becerileri, tedavi tamamlandıktan sonra da günlük yaşamda kullanılabilir; bu, kalıcı iyileşmeyi destekler.
+1. Seanslara düzenli katılım ve ev ödevlerinin yapılması, terapinin başarısı için kritik öneme sahiptir.
+2. Kısa süreli bir terapi olsa da kazanımlar uzun sürelidir; çünkü kişi kendi kendine farkındalık geliştirmeyi öğrenir.
+3. Gerekli durumlarda ilaç tedavisiyle kombine biçimde uygulanabilir.
+4. BDT becerileri, tedavi tamamlandıktan sonra da günlük yaşamda kullanılabilir; bu, kalıcı iyileşmeyi destekler.
 
 
 
