@@ -10,8 +10,10 @@ image: '/images/hizmet-bilissel-davranisci-terapi.jpg'
 ## 1. Bilişsel Davranışçı Terapi nedir?
 Bilişsel davranışçı terapi (BDT), psikolojik sorunların düşünceler, duygular ve davranışlar arasındaki karşılıklı etkileşimden kaynaklandığı ilkesine dayanan, **yapılandırılmış ve bilimsel olarak etkinliği kanıtlanmış** bir psikoterapi yöntemidir.
 Bu yaklaşıma göre yaşadığımız olaylar değil, olayları nasıl yorumladığımız ve onlara nasıl tepki verdiğimiz ruh halimizi belirler. Yani bir olay herkes için aynı olsa da, kişinin düşünce biçimi o deneyimi nasıl yaşayacağını değiştirir. BDT, bu döngüyü fark etmeyi, gerçekçi olmayan veya olumsuz düşünceleri tanımayı ve bunların yerine daha işlevsel, gerçekçi düşünceler geliştirmeyi öğretir.
+
 Terapide kişi, otomatik düşüncelerini ve davranış kalıplarını gözlemlemeyi öğrenir. Bu düşünceler genellikle farkında olunmadan zihinden geçen, “ben yetersizim”, “kimse beni sevmiyor”, “bu durumla baş edemem” gibi inançlardır. Bu tür düşünceler yoğun kaygı, üzüntü veya suçluluk hislerine yol açabilir.
 BDT, bu olumsuz döngüyü kırmak için düşüncelerin test edilmesini, alternatif bakış açıları geliştirilmesini ve davranışsal değişiklikler yapılmasını hedefler.
+
 Terapinin amacı yalnızca semptomları azaltmak değil, **kişinin duygularını yönetme ve yaşam olaylarıyla başa çıkma becerilerini kalıcı biçimde geliştirmesidir.**
 Kişi, seanslarda öğrendiği becerileri günlük yaşamına aktarır; bu nedenle BDT kısa sürede kalıcı sonuçlar verebilen, öğretici yönü güçlü bir terapi olarak kabul edilir.
 
