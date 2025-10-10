@@ -8,7 +8,7 @@ image: '/images/hizmet-bilissel-davranisci-terapi.jpg'
 ---
 
 ## 1. Bilişsel Davranışçı Terapi nedir?
-Bilişsel Davranışçı Terapi (BDT), psikolojik sorunların düşünceler, duygular ve davranışlar arasındaki karşılıklı etkileşimden kaynaklandığı ilkesine dayanan, **yapılandırılmış ve bilimsel olarak etkinliği kanıtlanmış** bir psikoterapi yöntemidir.
+Bilişsel davranışçı terapi (BDT), psikolojik sorunların düşünceler, duygular ve davranışlar arasındaki karşılıklı etkileşimden kaynaklandığı ilkesine dayanan, **yapılandırılmış ve bilimsel olarak etkinliği kanıtlanmış** bir psikoterapi yöntemidir.
 Bu yaklaşıma göre yaşadığımız olaylar değil, olayları nasıl yorumladığımız ve onlara nasıl tepki verdiğimiz ruh halimizi belirler. Yani bir olay herkes için aynı olsa da, kişinin düşünce biçimi o deneyimi nasıl yaşayacağını değiştirir. BDT, bu döngüyü fark etmeyi, gerçekçi olmayan veya olumsuz düşünceleri tanımayı ve bunların yerine daha işlevsel, gerçekçi düşünceler geliştirmeyi öğretir.
 Terapide kişi, otomatik düşüncelerini ve davranış kalıplarını gözlemlemeyi öğrenir. Bu düşünceler genellikle farkında olunmadan zihinden geçen, “ben yetersizim”, “kimse beni sevmiyor”, “bu durumla baş edemem” gibi inançlardır. Bu tür düşünceler yoğun kaygı, üzüntü veya suçluluk hislerine yol açabilir.
 BDT, bu olumsuz döngüyü kırmak için düşüncelerin test edilmesini, alternatif bakış açıları geliştirilmesini ve davranışsal değişiklikler yapılmasını hedefler.
@@ -16,7 +16,7 @@ Terapinin amacı yalnızca semptomları azaltmak değil, **kişinin duyguların�
 Kişi, seanslarda öğrendiği becerileri günlük yaşamına aktarır; bu nedenle BDT kısa sürede kalıcı sonuçlar verebilen, öğretici yönü güçlü bir terapi olarak kabul edilir.
 
 ## 2. Hangi durumlarda uygulanır?
-**Bilişsel Davranışçı Terapi, çok sayıda ruhsal bozuklukta etkinliği en güçlü şekilde gösterilmiş psikoterapilerden biridir.** Başlıca kullanım alanları şunlardır:
+**Bilişsel davranışçı terapi, çok sayıda ruhsal bozuklukta etkinliği en güçlü şekilde gösterilmiş psikoterapilerden biridir.** Başlıca kullanım alanları şunlardır:
 1.	Depresyon
 2.	Yaygın anksiyete bozukluğu
 3.	Panik bozukluk
@@ -37,7 +37,7 @@ Bilişsel davranışçı terapi **yapılandırılmış bir psikoterapidir.**
 Genellikle **haftada bir** yapılan **8 ila 20 seans** arasında süren bir tedavi sürecidir.
 Terapi, bir “eğitim ve deneyim süreci” gibi ilerler; danışan aktif olarak sürece katılır ve öğrendiklerini seans dışında da uygular.
 
-BDT’nin temel aşamaları şu şekildedir:
+**BDT’nin temel aşamaları şu şekildedir:**
 1.	**Değerlendirme ve formülasyon:**
 İlk seanslarda kişinin yaşadığı sorun, düşünce kalıpları, duygusal tepkileri ve davranış biçimleri birlikte analiz edilir. Bu bilgilerden bir “bilişsel model” oluşturulur.
 2.	**Bilişsel yeniden yapılandırma:**
@@ -60,6 +60,7 @@ Bu tür durumlarda öncelikle ilaç tedavisiyle denge sağlanmalı, ardından ps
 BDT, geçmiş yaşantılardan ziyade şimdiki düşünce ve davranış kalıplarına odaklanır.
 Amaç geçmişi değiştirmek değil, kişinin bugün dünyayı nasıl algıladığını dönüştürmektir.
 Psikodinamik terapilerdeki gibi bilinçdışı süreçleri analiz etmez; Kişilerarası Terapi (IPT) kadar ilişki odaklı değildir.
+
 **BDT’nin en belirgin özellikleri:**
 1. Süre sınırlıdır (genellikle 2–5 ay arası).
 2. Yapılandırılmıştır, her seansın bir gündemi ve hedefi vardır.
