@@ -25,6 +25,8 @@ Bipolar Bozukluklar Derneği tarafından yürütülen, ağırlıklı olarak duyg
 **Royal College of Psychiatrists • Eylül 2025 — Halen**<br>
 İngiltere Kraliyet Psikiyatri Koleji tarafından, dünya genelinden farklı ülkelerden psikiyatristlerin kabul edildiği; yaşlılık psikiyatrisi alanında bilgi ve beceri düzeyini arttırmaya yönelik düzenlenen, 1 yıl sürecek, kanıta dayalı yaklaşımların anlatıldığı yapılandırılmış diploma programına bu yıl kabul edilen 15 kişiden birisi olarak halen bu eğitime devam etmektedir.
 
+:lollipop: :+1:
+
 3. **Master Psychopharmacology Program**
 **Neuroscience Education Institute • Ocak 2025 — Halen**<br>
 Neuroscience Education Institute tarafından yürütülen, psikofarmakoloji (psikiyatrik ilaç tedavileri) ve nörobilim konusunda bilgi ve beceri düzeyini arttırmaya yönelik eğitim programına halen devam etmektedir.
