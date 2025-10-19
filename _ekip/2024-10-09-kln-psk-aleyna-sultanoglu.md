@@ -2,7 +2,7 @@
 title: Kln. Psk. Aleyna SULTANOĞLU
 description: 2020'de psikoloji lisans, 2024'te klinik psikoloji yüksek lisans eğitimlerini tamamladı. Bilişsel davranışçı psikoterapi başta olmak üzere bireysel psikoterapi konusunda uzmanlaşmıştır.
 category: Uzman Psikolog
-date: 2025-04-25 08:00:00 +0300
+date: 2025-10-09 08:00:00 +0300
 client: Klinik Psikolog, Bireysel Psikoterapi, Psikoeğitim
 role: Anksiyete Bozuklukları, Obsesif Kompulsif Bozukluk, Depresyon
 image: '/images/pskaleyna-profil.jpg'
@@ -17,19 +17,23 @@ Psikoloji (Lisans Eğitimi) • 2016 - 2020
 Lise • 2015
 
 ## Aldığı Eğitimler
-1. **Bilişsel Davranışçı Terapi Temel Eğitimi**<br>
+1. **Kişilerarası İlişkiler Psikoterapisi (KİPT)**
+**Kişilerarası İlişkiler Psikoterapisi Derneği  • Mayıs 2025 — Haziran 2025**<br>
+Kişilerarası İlişkiler Psikoterapisi Derneği tarafından yürütülen 64 saatlik temel teorik ve pratik modüler KİPT eğitimini tamamladı. Halen bu psikoterapi yöntemi için yaklaşık 2 yıl sürecek süpervizyon eğitimine devam etmektedir.
+
+2. **Bilişsel Davranışçı Terapi Temel Eğitimi**<br>
 **Bilişsel Davranışçı Psikoterapiler Derneği • 2022**<br>
 Bilişsel Davranışcı Psikoterapiler Derneği tarafından yürütülen Bilişsel Davranışçı Psikoterapi Temel Eğimi’ni tamamladı.
 
-2. **Bilişsel Davranışçı Terapi Beceri Eğitimi**<br>
+3. **Bilişsel Davranışçı Terapi Beceri Eğitimi**<br>
 **Bilişsel Davranışçı Psikoterapiler Derneği • 2022**<br>
 Bilişsel Davranışcı Psikoterapiler Derneği tarafından yürütülen uygulamaya yönelik Bilişsel Davranışçı Psikoterapi Beceri Eğimi’ni tamamladı.
 
-3. **Bilişsel Davranışçı Terapi Değerlendirme ve Yapılandırılmış Görüşme Eğitimi**<br>
+4. **Bilişsel Davranışçı Terapi Değerlendirme ve Yapılandırılmış Görüşme Eğitimi**<br>
 **Bilişsel Davranışçı Psikoterapiler Derneği • 2022**<br>
 Bilişsel Davranışcı Psikoterapiler Derneği tarafından yürütülen Değerlendirme ve Yapılandırılmış Görüşme Eğitimi’ni tamamladı.
 
-4. **Kısa Süreli Çözüm Odaklı Terapi Eğitimi**<br>
+5. **Kısa Süreli Çözüm Odaklı Terapi Eğitimi**<br>
 **İzmir Psikoloji Enstitüsü • 2022**<br>
 İzmir Psikoloji Enstitüsü bünyesinde Nevin Dölek tarafından düzenlenen Kısa Süreli Çözüm Odaklı Psikoterapi Eğitimi'ni tamamladı.
 
