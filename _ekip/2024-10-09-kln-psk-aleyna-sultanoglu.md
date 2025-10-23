@@ -47,7 +47,7 @@ Bilişsel Davranışcı Psikoterapiler Derneği tarafından yürütülen Değerl
 </div>
 
 ## Çalıştığı Kurumlar, Deneyimler
-1. **MoodStm Psikiyatri Kliniği**<br>
+1. **MoodStim Psikiyatri Kliniği**<br>
 **Klinik Psikolog • Ocak 2025 — Halen**<br>
 Ocak 2025 tarihinden itibaren klinik psikolog olarak uygun erişkin hastalarda kanıta dayalı bireysel psikoterapi uygulamaları, psikoeğitim ve psikometrik değerlendirme hizmetleri vermektedir.
 
