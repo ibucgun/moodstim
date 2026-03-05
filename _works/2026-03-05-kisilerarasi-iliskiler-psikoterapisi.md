@@ -1,6 +1,6 @@
 ---
 title: Kişilerarası İlişkiler Psikoterapisi
-description: Açıklama
+description: Kişilerarası İlişkiler Psikoterapisi (KİPT), depresyon ve ilişkili duygudurum bozukluklarının tedavisinde etkinliği bilimsel olarak kanıtlanmış, tedavi kılavuzlarında yer alan, yapılandırılmış, süre sınırlı bir psikoterapi türüdür. 
 category: Psikoterapi
 date: 2026-03-05 08:00:00 +0300
 role: Klinik Psikolog Aleyna SULTANOĞLU
