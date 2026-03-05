@@ -1,6 +1,6 @@
 ---
 title: Nöropsikolojik Değerlendirme
-description: Açıklama
+description: 
 category: Tanıya/Tedaviye Yardımcı Değerlendirme
 date: 2025-01-21 08:00:00 +0300
 role: Uzm. Dr. İsmail BUÇGÜN
